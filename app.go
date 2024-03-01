@@ -4,6 +4,7 @@ import (
 	"context"
 	"fmt"
 )
+// 用于与前端连接
 
 // App struct
 type App struct {

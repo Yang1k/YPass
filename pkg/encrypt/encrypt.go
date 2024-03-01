@@ -1,0 +1,4 @@
+package encrypt
+
+
+// func encrypt
