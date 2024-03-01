@@ -1,4 +1,4 @@
-module changeme
+module YPass
 
 go 1.21
 
